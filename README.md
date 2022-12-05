@@ -58,11 +58,12 @@ This is a web based application developed for .......
 1. Microsoft Azure Portal
 
 
-![Screenshot (10)](https://user-images.githubusercontent.com/118873633/205550211-d561af25-1a36-4fa6-b8db-7bc6507b8e78.png)
+![Screenshot (11)](https://user-images.githubusercontent.com/118873633/205550523-0b07e2d1-bcad-4fa1-8f32-7426eddff6e5.png)
 
-2. App![Screenshot (12)](https://user-images.githubusercontent.com/118873633/205550407-4a5adfd1-a67f-4d14-8b25-43bcf6afffc4.png)
- Service and Web Apps
+2. App
+3. 
 
+![Screenshot (12)](https://user-images.githubusercontent.com/118873633/205550577-defecdaa-ae3f-4df3-a1aa-98d12089c2d7.png)
 
 
 ## Tech Stack
